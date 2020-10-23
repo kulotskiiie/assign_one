@@ -1,6 +1,6 @@
 <html>
 <body>
-
+//second exercise
 <form action ="Exercise_two.php" method= "post">
 <input type ="text" name ="num1" value ="" placeholder="      ENTER A NUMBER"><br>
 <input type ="text" name ="num2" value ="" placeholder="      ENTER A NUMBER"><br>
